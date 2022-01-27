@@ -105,8 +105,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=abdurakxmon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api?username=abdurakxmon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="DJWOMS github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=DJWOMS&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0aae11855d42111544738ef7b41d5214b30e7514dcfbd4e91fda1a37b10e8a8a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d444a574f4d53266c61796f75743d636f6d7061637426636f756e745f707269766174653d74727565267468656d653d67727576626f78">
-<img src="https://camo.githubusercontent.com/0aae11855d42111544738ef7b41d5214b30e7514dcfbd4e91fda1a37b10e8a8a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d444a574f4d53266c61796f75743d636f6d7061637426636f756e745f707269766174653d74727565267468656d653d67727576626f78" alt="DJWOMS Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&amp;layout=compact&amp;count_private=true&amp;theme=gruvbox" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurakxmon&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurakxmon&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="DJWOMS Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&amp;layout=compact&amp;count_private=true&amp;theme=gruvbox" style="max-width: 100%;">
 </a>
 </p>
 
