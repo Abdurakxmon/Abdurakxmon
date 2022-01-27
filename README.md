@@ -20,7 +20,10 @@
 </svg>
 </a>Technology stack</h2>
 <p>
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/raw/main/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
+	<a href="#">
+		<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/raw/main/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
+	</a>
+
 </p>
 <p dir="auto">
 <strong>Back-end</strong>
