@@ -106,7 +106,8 @@
 	</article>
   </div>
 </div>
-	<div id="myCanvasContainer">
+	
+<div id="myCanvasContainer">
   <canvas width="1024" height="800" id="myCanvas">
     <p>Anything in here will be replaced on browsers that support the canvas element</p>
   </canvas>
