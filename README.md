@@ -126,6 +126,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript"></script>
 <script src="https://www.goat1000.com/jquery.tagcanvas.min.js" type="text/javascript"></script>
 <script type="text/javascript">
+	
 	$(document).ready(function() {
   if(!$('#myCanvas').tagcanvas({
     //textColour: '#ff0000',
@@ -148,4 +149,5 @@
     $('#myCanvasContainer').hide();
   }
 });
+	
 </script>
